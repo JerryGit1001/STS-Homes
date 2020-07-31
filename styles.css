@@ -1,0 +1,26 @@
+body{background-color:#dfd3c3;}
+
+hr{background-color:#dfd3c3 ;
+border-style: none;
+height: 100px;
+width: 100px;}
+
+h1{
+  font-size: 200px;
+  font-style: oblique;
+  text-decoration: underline;
+  text-transform: capitalize;
+  color:#222831;
+}
+h2
+{
+font-size: 100px;
+  color:#fa7d09;
+}
+h3
+{
+  color:#9a1f40;
+}
+p{
+  font-size: 50px;
+}
